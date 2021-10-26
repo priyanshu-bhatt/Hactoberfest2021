@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/std/data str/SnapTube Video/coding/linkedlist/doublyll.cpp
+iostream
+-
+
+D:/std/data str/SnapTube Video/coding/linkedlist/mergeTwoSort.cpp
+doublyll.cpp
+D:/std/data str/SnapTube Video/coding/linkedlist/doublyll.cpp
+
